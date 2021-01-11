@@ -1,0 +1,92 @@
+time="2021-01-10T11:39:23-08:00" level=info msg="[123 34 118 97 108 117 101 49 34 58 34 103 97 109 101 32 110 97 109 101 34 44 34 118 97 108 117 101 50 34 58 34 117 115 101 114 32 110 97 109 101 34 44 34 118 97 108 117 101 51 34 58 34 116 117 114 110 32 102 105 101 108 100 34 125]"
+time="2021-01-10T11:39:46-08:00" level=info msg="{\"value1\":\"game name\",\"value2\":\"user name\",\"value3\":\"turn field\"}"
+time="2021-01-10T11:43:43-08:00" level=info msg="{\"value1\":\"game name\",\"value2\":\"user name\",\"value3\":\"turn field\"}"
+time="2021-01-10T11:43:47-08:00" level=info msg="{\"value1\":\"game name\",\"value2\":\"user name\",\"value3\":\"turn field\"}"
+time="2021-01-10T11:44:15-08:00" level=info msg="{\"value1\":\"game name\",\"value2\":\"user name\",\"value3\":\"turn field\"}"
+time="2021-01-10T11:44:15-08:00" level=info msg="payload:" json="&[123 34 118 97 108 117 101 49 34 58 34 103 97 109 101 32 110 97 109 101 34 44 34 118 97 108 117 101 50 34 58 34 117 115 101 114 32 110 97 109 101 34 44 34 118 97 108 117 101 51 34 58 34 116 117 114 110 32 102 105 101 108 100 34 125]"
+time="2021-01-10T11:44:44-08:00" level=info msg="{\"value1\":\"game name\",\"value2\":\"user name\",\"value3\":\"turn field\"}"
+time="2021-01-10T11:44:44-08:00" level=info msg=payload json="[123 34 118 97 108 117 101 49 34 58 34 103 97 109 101 32 110 97 109 101 34 44 34 118 97 108 117 101 50 34 58 34 117 115 101 114 32 110 97 109 101 34 44 34 118 97 108 117 101 51 34 58 34 116 117 114 110 32 102 105 101 108 100 34 125]"
+time="2021-01-10T15:44:35-08:00" level=info msg="{\"value1\":\"game name\",\"value2\":\"user name\",\"value3\":\"turn field\"}"
+time="2021-01-10T15:45:32-08:00" level=info msg="{\"value1\":\"game name\",\"value2\":\"user name\",\"value3\":\"turn field\"}"
+time="2021-01-10T15:49:10-08:00" level=info msg="{\"value1\":\"game name\",\"value2\":\"user name\",\"value3\":\"turn field\"}"
+time="2021-01-10T15:51:25-08:00" level=info msg="{\"value1\":\"game name\",\"value2\":\"user name\",\"value3\":\"turn field\"}"
+time="2021-01-10T15:52:45-08:00" level=info msg="map[extraField:junk data value1:game name value2:user name value3:turn field]"
+time="2021-01-10T15:52:45-08:00" level=info msg="{\"value1\":\"game name\",\"value2\":\"user name\",\"value3\":\"turn field\"}"
+time="2021-01-10T15:54:25-08:00" level=info msg="map[extraField:junk data value1:game name value2:user name value3:turn field]"
+time="2021-01-10T15:54:25-08:00" level=info msg="{\"extraField\":\"junk data\",\"value1\":\"game name\",\"value2\":\"user name\",\"value3\":\"turn field\"}"
+time="2021-01-10T15:54:25-08:00" level=info msg="{\"value1\":\"game name\",\"value2\":\"user name\",\"value3\":\"turn field\"}"
+time="2021-01-10T15:55:10-08:00" level=info msg="map[extraField:junk data value1:game name value2:user name value3:turn field]"
+time="2021-01-10T15:55:10-08:00" level=info msg="reqBody: %s {\"extraField\":\"junk data\",\"value1\":\"game name\",\"value2\":\"user name\",\"value3\":\"turn field\"}"
+time="2021-01-10T15:55:10-08:00" level=info msg="{\"value1\":\"game name\",\"value2\":\"user name\",\"value3\":\"turn field\"}"
+time="2021-01-10T15:58:39-08:00" level=info msg="map[extraField:junk data value1:game name value2:user name value3:turn field]"
+time="2021-01-10T15:58:39-08:00" level=info msg="{\"extraField\":\"junk data\",\"value1\":\"game name\",\"value2\":\"user name\",\"value3\":\"turn field\"}"
+time="2021-01-10T15:58:39-08:00" level=info msg="{\"value1\":\"game name\",\"value2\":\"user name\",\"value3\":\"turn field\"}"
+{"level":"info","msg":"map[extraField:junk data value1:game name value2:user name value3:turn field]","time":"2021-01-10T16:07:35-08:00"}
+{"level":"info","msg":"{\"extraField\":\"junk data\",\"value1\":\"game name\",\"value2\":\"user name\",\"value3\":\"turn field\"}","time":"2021-01-10T16:07:35-08:00"}
+{"level":"info","msg":"{\"value1\":\"game name\",\"value2\":\"user name\",\"value3\":\"turn field\"}","time":"2021-01-10T16:07:35-08:00"}
+{"level":"info","msg":"map[extraField:junk data value1:game name value2:user name value3:turn field]","time":"2021-01-10T16:11:59-08:00"}
+{"level":"info","msg":"{\"extraField\":\"junk data\",\"value1\":\"game name\",\"value2\":\"user name\",\"value3\":\"turn field\"}","time":"2021-01-10T16:11:59-08:00"}
+{"anyJSONMap":{"extraField":"junk data","value1":"game name","value2":"user name","value3":"turn field"},"level":"info","msg":"payload","time":"2021-01-10T16:11:59-08:00"}
+{"fmtanyJSONMap":"eyJleHRyYUZpZWxkIjoianVuayBkYXRhIiwidmFsdWUxIjoiZ2FtZSBuYW1lIiwidmFsdWUyIjoidXNlciBuYW1lIiwidmFsdWUzIjoidHVybiBmaWVsZCJ9","level":"info","msg":"payload","time":"2021-01-10T16:11:59-08:00"}
+{"level":"info","msg":"{\"value1\":\"game name\",\"value2\":\"user name\",\"value3\":\"turn field\"}","time":"2021-01-10T16:11:59-08:00"}
+{"anyJSONMap":{"extraField":"junk data","value1":"game name","value2":"user name","value3":"turn field"},"level":"info","msg":"payload","time":"2021-01-10T16:14:36-08:00"}
+{"level":"info","msg":"{\"value1\":\"game name\",\"value2\":\"user name\",\"value3\":\"turn field\"}","time":"2021-01-10T16:14:36-08:00"}
+{"anyJSONMap":{"extraField":"junk data","value1":"game name","value2":"user name","value3":"turn field"},"level":"info","msg":"payload","time":"2021-01-10T16:17:30-08:00"}
+{"level":"info","msg":"Reading config %!(EXTRA string=config.yml)","time":"2021-01-10T17:18:21-08:00"}
+{"level":"info","msg":"Result: {{ 0}}\n","time":"2021-01-10T17:18:21-08:00"}
+{"level":"info","msg":"Reading config %!(EXTRA string=config.yml)","time":"2021-01-10T17:19:23-08:00"}
+{"level":"info","msg":"users:\n  greg:\n    notify-method: sms\n    sms: 206-304-1111\n    email: greg@aol.com\n  joey:\n    notify-method: sms\n    sms: 404-323-4344\n    email: joey@gmail.com\n","time":"2021-01-10T17:19:23-08:00"}
+{"level":"info","msg":"Result: {{ 0}}\n","time":"2021-01-10T17:19:23-08:00"}
+{"level":"info","msg":"Reading config %!(EXTRA string=config.yml)","time":"2021-01-10T17:22:11-08:00"}
+{"level":"info","msg":"users:\n  greg:\n    notify-method: sms\n    sms: 206-304-1111\n    email: greg@aol.com\n  joey:\n    notify-method: sms\n    sms: 404-323-4344\n    email: joey@gmail.com\n","time":"2021-01-10T17:22:11-08:00"}
+{"level":"info","msg":"Result: {{ 0}}\n","time":"2021-01-10T17:22:11-08:00"}
+{"level":"info","msg":"Reading config config.yml","time":"2021-01-10T17:41:08-08:00"}
+{"level":"info","msg":"users:\n  greg:\n    notify-method: sms\n    sms: 206-304-1111\n    email: greg@aol.com\n  joey:\n    notify-method: sms\n    sms: 404-323-4344\n    email: joey@gmail.com\n","time":"2021-01-10T17:41:08-08:00"}
+{"level":"info","msg":"Reading config config.yml","time":"2021-01-10T17:44:16-08:00"}
+{"level":"info","msg":"users:\n  greg:\n    notify-method: sms\n    sms: 206-304-1111\n    email: greg@aol.com\n  joey:\n    notify-method: sms\n    sms: 404-323-4344\n    email: joey@gmail.com\n","time":"2021-01-10T17:44:16-08:00"}
+{"level":"info","msg":"Reading config config.yml","time":"2021-01-10T17:52:20-08:00"}
+{"level":"info","msg":"users:\n  - greg:\n    notify-method: sms\n    sms: 206-304-1111\n    email: greg@aol.com\n  - joey:\n    notify-method: sms\n    sms: 404-323-4344\n    email: joey@gmail.com\n","time":"2021-01-10T17:52:20-08:00"}
+{"level":"info","msg":"Reading config config.yml","time":"2021-01-10T17:58:47-08:00"}
+{"level":"info","msg":"users:\n  - greg:\n    notify-method: sms\n    sms: 206-304-1111\n    email: greg@aol.com\n  - joey:\n    notify-method: sms\n    sms: 404-323-4344\n    email: joey@gmail.com\n","time":"2021-01-10T17:58:47-08:00"}
+{"level":"info","msg":"Reading config config.yml","time":"2021-01-10T18:00:33-08:00"}
+{"level":"info","msg":"users:\n  - greg:\n    notify-method: sms\n    sms: 206-304-1111\n    email: greg@aol.com\n  - joey:\n    notify-method: sms\n    sms: 404-323-4344\n    email: joey@gmail.com\n","time":"2021-01-10T18:00:33-08:00"}
+{"level":"info","msg":"Reading config config.yml","time":"2021-01-10T18:01:29-08:00"}
+{"level":"info","msg":"users:\n  - greg:\n    notify-method: sms\n    sms: 206-304-1111\n    email: greg@aol.com\n  - joey:\n    notify-method: sms\n    sms: 404-323-4344\n    email: joey@gmail.com\n","time":"2021-01-10T18:01:29-08:00"}
+{"level":"info","msg":"Reading config config.yml","time":"2021-01-10T18:01:47-08:00"}
+{"level":"info","msg":"users:\n  - greg:\n    notify-method: sms\n    sms: 206-304-1111\n    email: greg@aol.com\n  - joey:\n    notify-method: sms\n    sms: 404-323-4344\n    email: joey@gmail.com\n","time":"2021-01-10T18:01:47-08:00"}
+{"level":"info","msg":"Reading config config.yml","time":"2021-01-10T18:03:40-08:00"}
+{"level":"fatal","msg":"error: yaml: unmarshal errors:\n  line 2: cannot unmarshal !!seq into map[string]struct { NotifyMethod string \"yaml:\\\"notify-method\\\"\"; Sms string \"yaml:\\\"sms\\\"\"; Email string \"yaml:\\\"email\\\"\" }","time":"2021-01-10T18:03:40-08:00"}
+{"level":"info","msg":"Reading config config.yml","time":"2021-01-10T18:07:00-08:00"}
+{"level":"info","msg":"users:\n  - name: greg\n    notify-method: sms\n    sms: 206-304-1111\n    email: greg@aol.com\n  - name: joey\n    notify-method: sms\n    sms: 404-323-4344\n    email: joey@gmail.com\n","time":"2021-01-10T18:07:00-08:00"}
+{"level":"info","msg":"Reading config config.yml","time":"2021-01-10T19:01:19-08:00"}
+{"level":"info","msg":"users:\n  - name: greg\n    notify-method: sms\n    sms: 206-304-1111\n    email: greg@aol.com\n  - name: joey\n    notify-method: sms\n    sms: 404-323-4344\n    email: joey@gmail.com\n","time":"2021-01-10T19:01:19-08:00"}
+{"level":"info","msg":"Reading config config.yml","time":"2021-01-10T19:07:25-08:00"}
+{"level":"info","msg":"users:\n  - name: greg\n    notify-method: sms\n    sms: 206-304-1111\n    email: greg@aol.com\n  - name: joey\n    notify-method: sms\n    sms: 404-323-4344\n    email: joey@gmail.com\n","time":"2021-01-10T19:07:25-08:00"}
+{"level":"info","msg":"Reading config config.yml","time":"2021-01-10T19:09:10-08:00"}
+{"level":"info","msg":"users:\n  - name: greg\n    notify-method: sms\n    sms: 206-304-1111\n    email: greg@aol.com\n  - name: joey\n    notify-method: sms\n    sms: 404-323-4344\n    email: joey@gmail.com\n","time":"2021-01-10T19:09:10-08:00"}
+{"level":"info","msg":"Reading config config.yml","time":"2021-01-10T19:11:05-08:00"}
+{"level":"info","msg":"users:\n  - name: greg\n    notify-method: sms\n    sms: 206-304-1111\n    email: greg@aol.com\n  - name: joey\n    notify-method: sms\n    sms: 404-323-4344\n    email: joey@gmail.com\n","time":"2021-01-10T19:11:05-08:00"}
+{"level":"info","msg":"Reading config config.yml","time":"2021-01-10T19:19:13-08:00"}
+{"level":"info","msg":"users:\n  - name: greg\n    notify-method: sms\n    sms: 206-304-1111\n    email: greg@aol.com\n  - name: joey\n    notify-method: sms\n    sms: 404-323-4344\n    email: joey@gmail.com\n","time":"2021-01-10T19:19:13-08:00"}
+{"level":"info","msg":"Reading config config.yml","time":"2021-01-10T19:19:57-08:00"}
+{"level":"info","msg":"users:\n  - name: greg\n    notify-method: sms\n    sms: 206-304-1111\n    email: greg@aol.com\n  - name: joey\n    notify-method: sms\n    sms: 404-323-4344\n    email: joey@gmail.com\n","time":"2021-01-10T19:19:57-08:00"}
+{"level":"info","msg":"Reading config config.yml","time":"2021-01-10T19:20:17-08:00"}
+{"level":"info","msg":"users:\n  - name: greg\n    notify-method: sms\n    sms: 206-304-1111\n    email: greg@aol.com\n  - name: joey\n    notify-method: sms\n    sms: 404-323-4344\n    email: joey@gmail.com\n","time":"2021-01-10T19:20:17-08:00"}
+{"level":"info","msg":"Reading config config.yml","time":"2021-01-10T19:20:38-08:00"}
+{"level":"info","msg":"users:\n  - name: greg\n    notify-method: sms\n    sms: 206-304-1111\n    email: greg@aol.com\n  - name: joey\n    notify-method: sms\n    sms: 404-323-4344\n    email: joey@gmail.com\n","time":"2021-01-10T19:20:38-08:00"}
+{"level":"info","msg":"Reading config config.yml","time":"2021-01-10T19:21:00-08:00"}
+{"level":"info","msg":"users:\n  - name: greg\n    notify-method: sms\n    sms: 206-304-1111\n    email: greg@aol.com\n  - name: joey\n    notify-method: sms\n    sms: 404-323-4344\n    email: joey@gmail.com\n","time":"2021-01-10T19:21:00-08:00"}
+{"level":"info","msg":"Reading config config.yml","time":"2021-01-10T19:22:10-08:00"}
+{"level":"info","msg":"users:\n  - name: greg\n    notify-method: sms\n    sms: 206-304-1111\n    email: greg@aol.com\n  - name: joey\n    notify-method: sms\n    sms: 404-323-4344\n    email: joey@gmail.com\n","time":"2021-01-10T19:22:10-08:00"}
+{"level":"info","msg":"payload","reqBody":{"extraField":"junk data","value1":"game name","value2":"greg","value3":"turn field"},"time":"2021-01-10T19:22:17-08:00"}
+{"level":"info","msg":"Reading config config.yml","time":"2021-01-10T19:29:34-08:00"}
+{"level":"info","msg":"users:\n  - name: greg\n    notify-method: sms\n    sms: 206-304-1111\n    email: greg@aol.com\n  - name: joey\n    notify-method: sms\n    sms: 404-323-4344\n    email: joey@gmail.com\n","time":"2021-01-10T19:29:34-08:00"}
+{"level":"info","msg":"payload","reqBody":{"extraField":"junk data","value1":"game name","value2":"greg","value3":"turn field"},"time":"2021-01-10T19:29:42-08:00"}
+{"level":"info","msg":"Reading config config.yml","time":"2021-01-10T19:34:40-08:00"}
+{"level":"info","msg":"users:\n  - name: greg\n    notify-method: sms\n    sms: 206-304-1111\n    email: greg@aol.com\n  - name: joey\n    notify-method: sms\n    sms: 404-323-4344\n    email: joey@gmail.com\n","time":"2021-01-10T19:34:40-08:00"}
+{"level":"info","msg":"payload","reqBody":{"extraField":"junk data","value1":"game name","value2":"greg","value3":"turn field"},"time":"2021-01-10T19:34:49-08:00"}
+{"level":"info","msg":"Sending to user","time":"2021-01-10T19:34:49-08:00","yaml":{"extraField":"junk data","value1":"game name","value2":"greg","value3":"turn field"}}
+{"level":"info","msg":"Reading config config.yml","time":"2021-01-10T19:39:05-08:00"}
+{"level":"info","msg":"users:\n  - name: greg\n    notify-method: sms\n    sms: 206-304-1111\n    email: greg@aol.com\n  - name: joey\n    notify-method: sms\n    sms: 404-323-4344\n    email: joey@gmail.com\n","time":"2021-01-10T19:39:05-08:00"}
+{"level":"info","msg":"payload","reqBody":{"extraField":"junk data","value1":"game name","value2":"greg","value3":"turn field"},"time":"2021-01-10T19:39:11-08:00"}
+{"level":"info","msg":"Sending to user","time":"2021-01-10T19:39:11-08:00","yaml":{"extraField":"junk data","value1":"game name","value2":"greg","value3":"turn field"}}

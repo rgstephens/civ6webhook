@@ -1,0 +1,9 @@
+users:
+  - name: greg
+    notify-method: sms
+    sms: 206-304-1111
+    email: greg@aol.com
+  - name: joey
+    notify-method: sms
+    sms: 404-323-4344
+    email: joey@gmail.com
